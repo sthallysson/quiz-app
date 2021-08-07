@@ -5,4 +5,4 @@ Um quiz feito com HTML, CSS e JavaScript para treinar minhas habilidades com Jav
 <img src="quiz-app.png">
 
 ### Link para o acesso:
-https://quiz-app-supernatural.netlify.app/
+https://sthallysson.github.io/quiz-app/
